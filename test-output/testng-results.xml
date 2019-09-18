@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15211" started-at="2019-05-31T06:07:15Z" finished-at="2019-05-31T06:07:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15211" started-at="2019-05-31T06:07:15Z" finished-at="2019-05-31T06:07:31Z">
+      <class name="PomOrange.AppTest">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:PomOrange.AppTest@13fd2ccd]" name="appLaunch" is-config="true" duration-ms="19458" started-at="2019-05-31T11:36:56Z" finished-at="2019-05-31T11:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="Testing()[pri:1, instance:PomOrange.AppTest@13fd2ccd]" name="Testing" duration-ms="6644" started-at="2019-05-31T11:37:15Z" finished-at="2019-05-31T11:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testing -->
+        <test-method status="PASS" signature="Testing1()[pri:2, instance:PomOrange.AppTest@13fd2ccd]" name="Testing1" duration-ms="4541" started-at="2019-05-31T11:37:22Z" finished-at="2019-05-31T11:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testing1 -->
+        <test-method status="PASS" signature="Testing12()[pri:3, instance:PomOrange.AppTest@13fd2ccd]" name="Testing12" duration-ms="3999" started-at="2019-05-31T11:37:27Z" finished-at="2019-05-31T11:37:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testing12 -->
+        <test-method status="PASS" signature="appClose()[pri:0, instance:PomOrange.AppTest@13fd2ccd]" name="appClose" is-config="true" duration-ms="316" started-at="2019-05-31T11:37:31Z" finished-at="2019-05-31T11:37:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appClose -->
+      </class> <!-- PomOrange.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
